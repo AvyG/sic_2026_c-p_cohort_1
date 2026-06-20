@@ -7,12 +7,6 @@ import os
 # ==============================================================================
 # 1. CONFIGURACIÓN DE LA INTERFAZ
 # ==============================================================================
-st.set_page_config(
-    page_title="Sistema de Gestión de Crisis - Biobío",
-    page_icon="🚨",
-    layout="wide"
-)
-
 st.title("🚨 Sistema Integrado de Alertas, Mitigación y Planes de Evacuación")
 st.markdown("### Centro de Operaciones de Emergencia (COE) | SIC 2026 - Grupo 5")
 
